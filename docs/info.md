@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+tt_um_AbAdA_2048
 
 ## How to test
 
-Explain how to use your project
+tt_um_AbAdA_2048
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+VGA FPGA
