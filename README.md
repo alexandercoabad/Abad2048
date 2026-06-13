@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-## 2048 game uploaded successfully in TT FPGA
+## 2048 game uploaded successfully to the TT FPGA
 
 Video: https://www.linkedin.com/posts/alexander-co-abad-79445767_i-managed-to-replicate-the-2048-game-and-activity-7471442185091981313-8tYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
 
