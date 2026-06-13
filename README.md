@@ -1,15 +1,24 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+## 2048 game uploaded successfully in TT FPGA
 
-https://www.linkedin.com/posts/alexander-co-abad-79445767_i-managed-to-replicate-the-2048-game-and-activity-7471442185091981313-8tYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
+Video: https://www.linkedin.com/posts/alexander-co-abad-79445767_i-managed-to-replicate-the-2048-game-and-activity-7471442185091981313-8tYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
 
 
-## What is Tiny Tapeout?
+## 2D
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
+<img width="407" height="574" alt="Screenshot 2026-06-13 at 8 51 17 PM" src="https://github.com/user-attachments/assets/d00d12f5-a272-4d25-b8dc-c0ccff1dd0eb" />
 
-To learn more and get started, visit https://tinytapeout.com.
+## 3D
+
+<img width="469" height="639" alt="Screenshot 2026-06-13 at 8 51 57 PM" src="https://github.com/user-attachments/assets/01ca1004-3d84-4f4e-b31e-536e11a8b056" />
+
+
+
+
+
+
+
 
 ## Set up your Verilog project
 
