@@ -2,7 +2,8 @@
 
 # Tiny Tapeout Verilog Project Template
 
-- [Read the documentation for project](docs/info.md)
+https://www.linkedin.com/posts/alexander-co-abad-79445767_i-managed-to-replicate-the-2048-game-and-activity-7471442185091981313-8tYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
+
 
 ## What is Tiny Tapeout?
 
