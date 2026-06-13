@@ -4,7 +4,7 @@
 
 Video: https://www.linkedin.com/posts/alexander-co-abad-79445767_i-managed-to-replicate-the-2048-game-and-activity-7471442185091981313-8tYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
 
-Link to the VGA Playground where you can play in your browser:
+Link to the VGA Playground:
 https://vga-playground.com/?repo=https://github.com/alexandercoabad/Abad2048
 
 <img width="391" height="396" alt="Screenshot 2026-06-13 at 8 12 28 PM" src="https://github.com/user-attachments/assets/066e8911-06e1-4016-b712-2b7b69ee07d0" />
