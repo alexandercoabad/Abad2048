@@ -7,6 +7,9 @@ Video: https://www.linkedin.com/posts/alexander-co-abad-79445767_i-managed-to-re
 Link to the VGA Playground where you can play in your browser:
 https://vga-playground.com/?repo=https://github.com/alexandercoabad/Abad2048
 
+<img width="391" height="396" alt="Screenshot 2026-06-13 at 8 12 28 PM" src="https://github.com/user-attachments/assets/066e8911-06e1-4016-b712-2b7b69ee07d0" />
+
+
 
 ## 2D
 
