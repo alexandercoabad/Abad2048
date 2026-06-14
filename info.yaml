@@ -24,14 +24,14 @@ project:
 pinout:
   # Inputs
   # Inputs
-  ui[0]: "btn_up"
-  ui[1]: "btn_down"
-  ui[2]: "btn_left"
-  ui[3]: "btn_right"
-  ui[4]: "gamepad_latch"
-  ui[5]: "gamepad_clk"
-  ui[6]: "gamepad_data"
-  ui[7]: "debug_mode"
+  ui[0]: ""
+  ui[1]: ""
+  ui[2]: ""
+  ui[3]: ""
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
 
   # Outputs
   uo[0]: "R1"
